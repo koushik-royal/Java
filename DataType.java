@@ -17,6 +17,7 @@ public  class DataType{
         System.err.println("name: "+ name);
         System.out.println("poll: " + poll);
         System.out.println("weight: " + weight);
+        System.err.println("heghit: " + heghit);
         System.err.println("grade: " + grade);
         System.err.println("student: "+ student);
 
